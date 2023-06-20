@@ -1,11 +1,11 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
 // README at: https://github.com/devcontainers/templates/tree/main/src/dotnet
 {
-  "hostRequirements": {
-       "cpus": 4,
-       "memory": "4gb",
-       "storage": "16gb"
-    },
+  //"hostRequirements": {
+  //     "cpus": 4,
+  //     "memory": "4gb",
+  //     "storage": "16gb"
+  //  },
     "name": "Backend .NET Core",
     // Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
     "image": "mcr.microsoft.com/devcontainers/dotnet:0-7.0",
